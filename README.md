@@ -1,6 +1,7 @@
 # Subscription-Dock
 Manage all your subscriptions online.
-轻量自托管订阅管理面板，适合部署在 Ubuntu 24 VPS 上。当前版本不依赖 npm 第三方包，后端使用 Node.js 标准库，数据保存在 `data/subscription-dock.json`。
+Visitor Test：https://subscriptions.hefan.me/
+轻量自托管订阅管理面板，适合通过docker部署。当前版本不依赖 npm 第三方包，后端使用 Node.js 标准库，数据保存在 `data/subscription-dock.json`。
 
 ## 功能
 
