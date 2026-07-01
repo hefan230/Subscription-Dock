@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "settings": {
+    "baseCurrency": "USD",
+    "rates": {
+      "CNY": 7.2,
+      "JPY": 157,
+      "EUR": 0.92,
+      "TRY": 32.5,
+      "INR": 83.5,
+      "USD": 1
+    },
+    "notifications": {
+      "enabled": false,
+      "pushoverToken": "",
+      "pushoverUserKey": "",
+      "reminderDays": 3,
+      "sent": {}
+    }
+  },
+  "subscriptions": []
+}
