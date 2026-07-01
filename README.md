@@ -18,6 +18,12 @@ Visitor Test：https://subscriptions.hefan.me/
 - Docker / Docker Compose 部署
 
 ## Docker 部署
+下载subscription-dock-v1.7z到服务器上解压
+进入目录修改.env配置文件，设置账号密码
+
+进入解压后的目录执行启动docker容器
+docker-compose down
+docker-compose up -d --build
 
 ```bash
 # 如果项目目录里还没有 .env，再复制示例文件
